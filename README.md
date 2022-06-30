@@ -6,7 +6,7 @@ Atividade finalizada para o curso de Curso de JavaScript e TypeScript do básico
 
 ## :hammer: Funcionalidades do projeto
 
-- `Funcionalidade`: Cálculos básicos de matemática (divisão, multiplicação, subtração, soma)
+- `Funcionalidade`: Cálculos básicos de matemática
 - `Funcionalidade`: Divisão, multiplicação, subtração, soma
 
 ## :heavy_check_mark: Objetivo
